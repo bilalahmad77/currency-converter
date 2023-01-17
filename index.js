@@ -26,7 +26,6 @@ async function Converter() {
                 type: "number",
                 message: "Enter values:"
             }]);
-        // console.log(answer.Amount);
         switch (answer.CurrencyFrom) {
             case 'USD':
                 if (answer.CurrencyTo === "PKR") {
