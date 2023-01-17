@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-// currency-converter
 import inquirer from "inquirer";
 const UsdtoPkr=228.43;
 const PkrtoUsd=0.0044;
